@@ -18,3 +18,12 @@ Visio Diagrams for Azure Architectures based on Partner ADS sessions
 - With P2S, S2S and ER
 
 ![VWAN HLD](images/vWAN-terraform.JPG)
+
+## NVA Architectures
+
+1) On Premises to Azure East-West using LB HA Ports
+![On Premises to Azure East-West](images/nva/on-prem-to-azure-east-west-lb-ha-ports.jpg)
+2) Spoke to Spoke East-West using LB HA Ports
+![Spoke to Spoke East-West](images/nva/spoke-to-spoke-east-west-lb-ha-ports.jpg)
+3) North South traffic using LB Sandwich design
+![North South](images/nva/north-south-lb-sandwich-design.jpg)
