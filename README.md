@@ -8,11 +8,11 @@ Visio Diagrams for Azure Architectures based on Partner ADS sessions
 - Two AD Forests, Single AD Connect, Hybrid Design with VPN
 - Two AD Forests, Single AD Connect, AAD DS (Managed Instance), No VPN
 
-![WVD HLD](images/wvd-hld.JPG)
+![WVD HLD](images/WVD-HLD.JPG)
 
 ## Virtual WAN Architectures
 
 - Terraform LAB
 - With P2S, S2S and ER
 
-![VWAN HLD](images/vwan-terraform.JPG)
+![VWAN HLD](images/vWAN-terraform.JPG)
